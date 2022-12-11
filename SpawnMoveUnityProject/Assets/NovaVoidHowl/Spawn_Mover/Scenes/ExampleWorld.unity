@@ -367,7 +367,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 5d06df35-35ba-498a-8441-59f7ca521432
+    guid: 305d903b-d094-4190-a0be-39dc0ce1f857
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -676,7 +676,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 2
-  objectId: a15e207e-daac-4cea-a02f-13870cb14052
+  objectId: 
 --- !u!4 &268124887
 Transform:
   m_ObjectHideFlags: 0
@@ -2240,7 +2240,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: fb3e6f03-3b0b-4b19-940b-675b7059063e
+    guid: 982b2220-78d9-47b9-9877-2a1092087f63
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []

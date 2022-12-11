@@ -6,4 +6,4 @@
 
 This repo contains an example 'ready to go' demo world of the Spawn Mover package
 
-Package readme can be found [here]()  
+Package readme can be found [here](https://github.com/NovaVoidHowl/CVRSpawnMover/blob/main/SpawnMoveUnityProject/Assets/NovaVoidHowl/Spawn_Mover/README.md)  
